@@ -1,8 +1,8 @@
 import "./App.css";
 
 //components
-import Features from "./components/features/features";
 import Light from "./components/light/light";
+import Features from "./components/features/featuresC";
 
 import Subscribe from "./components/subscribe/subscribe";
 import Partner from "./components/Partner/partner";
